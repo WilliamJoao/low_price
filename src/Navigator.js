@@ -1,7 +1,7 @@
 // import React from 'react'
 import { createSwitchNavigator } from 'react-navigation'
-import Produto from './Produto'
-import Login from './src/screens/Login'
+import Produto from './screens/Produto'
+import Login from './screens/Login'
 
 const MainRoutes = {
     Login : {
